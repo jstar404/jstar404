@@ -40,16 +40,28 @@ const JSTAR = {
 ![HTML](https://img.shields.io/badge/Html-D92D00?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/Css-006BB4?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Javscript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Lua](https://img.shields.io/badge/Lua-000081?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/csharp-320081?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### Database:
+#### Frameworks & Libraries:
+
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+
+#### Database & Backend:
 
 ![Sqlite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![Convex](https://img.shields.io/badge/convex-3E54A3?style=for-the-badge&logo=convex&logoColor=white)&nbsp;
+
+#### Tools:
+
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 #### IDEs:
 
