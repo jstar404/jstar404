@@ -42,6 +42,6 @@ I'm interested in building reliable, maintainable software and improving my skil
 **Links**
 
 - 🌐 Website: https://junaidexe.vercel.app
-- 🔗 Linktree: https://linktr.ee/jstarsdev  
+- 🔗 Linktree: https://linktr.ee/junaid404  
 - 🐦 X (Twitter): https://twitter.com/amjunaidd  
 - 📸 Instagram: https://instagram.com/iam.junaidd
