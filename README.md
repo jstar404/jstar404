@@ -9,7 +9,7 @@ I'm interested in building reliable, maintainable software and improving my skil
 **Languages**
 
 ![HTML](https://img.shields.io/badge/Html-D92D00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/Css-006BB4?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-006BB4?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +26,7 @@ I'm interested in building reliable, maintainable software and improving my skil
 
 **Data & Backend**
 
-![Convex](https://img.shields.io/badge/convex-3E54A3?style=for-the-badge&logo=convex&logoColor=white)
+![Convex](https://img.shields.io/badge/convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -34,15 +34,14 @@ I'm interested in building reliable, maintainable software and improving my skil
 **Tooling**
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 **Links**
 
-- 🌐 Website: https://junaidexe.vercel.app  
-- 🔗 Linktree: https://linktr.ee/jstar404  
-- 🐦 X (Twitter): https://twitter.com/amjunaidd
-
+- 🌐 Website: https://junaidexe.vercel.app
+- 🔗 Linktree: https://linktr.ee/jstarsdev  
+- 🐦 X (Twitter): https://twitter.com/amjunaidd  
 - 📸 Instagram: https://instagram.com/iam.junaidd
